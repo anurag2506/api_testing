@@ -1,0 +1,10 @@
+{
+  "person_ref": "/Users/anurag2506/Documents/vlms/ref.png",
+  "scene_prompt": "the person should be wearing a tux and be dancing while entering and should embrace the couple and then start eating the cake aggressively",
+  "entry_prompt": "before the person enters, the audio should be smooth and classy like that in a wedding and then when he comes should start have evil, villian music",
+  "scene_duration": 5,
+  "entry_duration": 5,
+  "total_duration": 10,
+  "voice_ids": [],
+  "timestamp": "2026-02-09T19:57:57.151676"
+}

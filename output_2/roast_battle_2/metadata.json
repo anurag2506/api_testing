@@ -1,0 +1,25 @@
+{
+  "idea": "AI Roast Battle: The Rock vs Kevin Hart",
+  "element1": "Dwayne The Rock Johnson",
+  "element2": "Kevin Hart",
+  "shots": [
+    {
+      "prompt": "A dramatic comedy stage with spotlight beams, red curtain backdrop, two microphones on stands facing each other. @Element1 stands on the left towering and muscular in a fitted black t-shirt, arms crossed, smirking confidently. @Element2 stands on the right, much shorter, wearing a sharp gray suit, bouncing on his feet with energy. The crowd cheers in the background, dramatic bass-heavy intro music, cinematic lighting, photorealistic",
+      "duration": "3"
+    },
+    {
+      "prompt": "@Element1 steps forward to the microphone, looks down at @Element2 with a cocky grin, raises one eyebrow. [The Rock, deep confident booming voice]: \"Kevin, I would roast you, but I dont want to be charged with a hate crime against someone under four feet tall.\" @Element2 shakes his head in disbelief. Crowd erupts laughing, comedic drum hit sound effect, bright stage lighting, photorealistic",
+      "duration": "4"
+    },
+    {
+      "prompt": "@Element2 rushes to the microphone, animated and fired up, pointing at @Element1, jumping slightly to reach the mic. [Kevin Hart, high pitched loud animated screaming voice]: \"Bro you named yourself The Rock! You peaked as a geology term! And thank God you went bald because that jerry curl you had in the nineties was a war crime!\" @Element1 tilts his head back laughing. Crowd goes wild, comedic roast show atmosphere, photorealistic",
+      "duration": "4"
+    },
+    {
+      "prompt": "@Element1 grabs @Element2 by the shoulders and lifts him off the ground effortlessly with one arm. @Element2 flails his legs in the air, arms waving. [Kevin Hart, squealing panicked voice]: \"Put me down! Put me down!\" [The Rock, calm amused deep voice]: \"See, this is the only way you will ever be on my level.\" Crowd explodes with laughter, confetti falls, dramatic roast battle victory music, photorealistic cinematic wide shot",
+      "duration": "4"
+    }
+  ],
+  "total_duration": 15,
+  "timestamp": "2026-02-10T18:17:20.791759"
+}

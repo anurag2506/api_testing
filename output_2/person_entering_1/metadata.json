@@ -1,0 +1,9 @@
+{
+  "video": "/Users/anurag2506/Documents/vlms/test3.mp4",
+  "person_front": "/Users/anurag2506/Documents/vlms/ref.png",
+  "person_side": null,
+  "enter_after_sec": 3,
+  "prompt": "Based on @Video1, for the first 3 seconds the scene plays normally. Then @Element1 the person should be wearing a tux and be dancing while entering and should embrace the couple and then start eating the cake aggressively",
+  "audio_prompt": "before the person enters, the audio should be smooth and classy like that in a wedding and then when he comes should start have evil, villian music",
+  "timestamp": "2026-02-09T19:49:11.724273"
+}

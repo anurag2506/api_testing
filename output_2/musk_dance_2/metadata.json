@@ -1,0 +1,27 @@
+{
+  "idea": "Musk enters club dance scene",
+  "model": "fal-ai/kling-video/o3/standard/text-to-video",
+  "element1": "Elon Musk (musk.png)",
+  "scene_ref": "test2.mp4 first frame",
+  "shots": [
+    {
+      "prompt": "A nightclub dance floor with a DJ mixing music, crowd dancing, red and blue neon lights, cool funky groovy bass-heavy music, photorealistic",
+      "duration": "3"
+    },
+    {
+      "prompt": "@Element1 enters the dance floor in a black jacket, maintains exact facial appearance throughout, dances with robotic jerky confident moves, crowd gives him space, lights shift to cold blue strobes, music changes to digital cryptic robotic glitchy electronic sounds, photorealistic",
+      "duration": "4"
+    },
+    {
+      "prompt": "@Element1 maintains exact facial appearance, does a final pose then walks off the dance floor. Lights return to warm red, crowd resumes dancing, music transitions back to cool funky groovy bass-heavy beats, photorealistic",
+      "duration": "3"
+    }
+  ],
+  "total_duration": 10,
+  "audio_design": {
+    "shot1": "cool, funky, groovy bass-heavy",
+    "shot2": "digital, cryptic, robotic, glitchy synth",
+    "shot3": "cool, funky, groovy bass-heavy (returns)"
+  },
+  "timestamp": "2026-02-10T19:26:33.962889"
+}
