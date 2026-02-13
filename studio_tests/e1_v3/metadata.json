@@ -1,0 +1,16 @@
+{
+  "shots": [
+    {
+      "prompt": "Ultrarealistic 9:16 vertical. MS, eye level. The woman stands confidently at the head of a sleek conference table, her body angled slightly towards an off-camera display screen to her left. Her right arm is raised, hand open in a gesturing motion towards the screen. The professional corporate meeting room, with ergonomic chairs, is visible behind her. [Meera, confident, bold and focussed]: \"Our projections indicate a 15% increase in Q3, primarily driven by the new marketing campaign's early success.\"",
+      "duration": "6"
+    },
+    {
+      "prompt": "Ultrarealistic 9:16 vertical. MS, eye level. The woman at frame center, speaking. Her body is slightly angled towards the right, her hands resting on the table in front of her. The modern, brightly lit meeting room is visible behind her, with a large conference table in the foreground. [Meera, confident, bold and professional]: \"We've also seen a significant uptick in client engagement, exceeding our initial targets by 10 points.\"",
+      "duration": "5"
+    }
+  ],
+  "total_duration": 11,
+  "model": "kling-v3-pro",
+  "aspect_ratio": "9:16",
+  "timestamp": "2026-02-13T13:08:03.203178"
+}
